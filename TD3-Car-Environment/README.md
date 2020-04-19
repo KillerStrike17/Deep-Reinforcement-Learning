@@ -24,7 +24,7 @@
   
   **Result:**
    
-  ![half_cheetah_result](half_cheetah.gif)
+  ![half_cheetah_result](Assets/half_cheetah.gif)
 
 ## Failed Attempts
 
