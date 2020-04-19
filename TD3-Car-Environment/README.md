@@ -8,7 +8,7 @@
   
   **Result:**
   
-  ![ant_bullet](ant_bullet.gif)
+  ![ant_bullet](Assets/ant_bullet.gif)
 
 * **Walker 2D bullet Environment:**
 
@@ -16,7 +16,7 @@
   
   **Result:**
   
-  ![walker2d_result](walker2d.gif)
+  ![walker2d_result](Assets/walker_bullet.gif)
 
 * **Half Cheetah Environment:**
 
