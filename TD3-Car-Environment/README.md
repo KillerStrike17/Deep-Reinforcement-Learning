@@ -56,6 +56,12 @@ most of my time went into that
     * If car crosses episodes tiem stamps
  * Click on the lmage below to take you to the video.
  
- Converted to model to 
+ * Captured Images of current car location
+ 
+
+## Need time for:
+
+* Complete the kivy environment.
+* COmplete the custom GYM environment.
     
   
