@@ -26,6 +26,36 @@
    
   ![half_cheetah_result](half_cheetah.gif)
 
-##  Custom Gym Environment
+## Failed Attempts
 
-## 
+Things I tried to create the custom environment
+
+**1. Created PyGame**
+
+[Game Code]()
+
+[Result]()
+
+**2. Integrating with gym environment**
+
+I couldn't integrate it with gym as there is very less documentation, need more time for that. 
+I tried also to integrate it directly with gym environemnt.. ended up the same..
+most of my time went into that
+
+## Running Attempt:
+
+**Steps:**
+
+* Took Kivy Environment.
+* Tried over sensor enviroment.
+* Removed A3C and Loaded TD3.
+  * Removed Array of rotation and made it to a single continous value given by the model.
+  * Added episodes ot the environemnt
+  * Added done state:
+    * If the car reaches destination
+    * If car crosses episodes tiem stamps
+ * Click on the lmage below to take you to the video.
+ 
+ Converted to model to 
+    
+  
