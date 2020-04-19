@@ -57,7 +57,10 @@ most of my time went into that
     * If car crosses episodes tiem stamps
  * Click on the lmage below to take you to the video.
  
- * Captured Images of current car location
+ [![Youtube Link](https://img.youtube.com/vi/gV4C0P4Anew/0.jpg)](https://www.youtube.com/watch?v=gV4C0P4Anew)
+ 
+ * First part of video is over a batch of 100 and memory size of 1000, due to Hardware capacity it crashes. Hence lowered memory size to 100 and batch size to 10.. if you look at the video that he actor is running but slowly. Hence hardware needs to be updated.. but he code runs without errors!!
+ * Captured Images of current car location. 
  
  **Cropped Image gif-70 frames**
  
