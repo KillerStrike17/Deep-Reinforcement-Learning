@@ -46,6 +46,7 @@ most of my time went into that
 
 **Steps:**
 
+[Code](Kivy_Sensor_TD3_Environment/)
 * Took Kivy Environment.
 * Tried over sensor enviroment.
 * Removed A3C and Loaded TD3.
@@ -58,6 +59,9 @@ most of my time went into that
  
  * Captured Images of current car location
  
+ **Cropped Image gif-70 frames**
+ 
+ ![Cropped Image](Kivy_Sensor_TD3_Environment/cropped_image.gif)
 
 ## Need time for:
 
