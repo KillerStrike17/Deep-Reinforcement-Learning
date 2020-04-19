@@ -32,9 +32,9 @@ Things I tried to create the custom environment
 
 **1. Created PyGame**
 
-[Game Code]()
+[Game Code](Car_Game)
 
-[Result]()
+[Result](Car_Game/game.png)
 
 **2. Integrating with gym environment**
 
